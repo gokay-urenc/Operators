@@ -1,0 +1,14 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Operatorler\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Operatorler\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Operatorler\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Operatorler\Operatorler\obj\Debug\Operatorler.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Operatorler\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Operatorler\Operatorler\obj\Debug\Operatorler.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Operatorler\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Operatorler\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Operatorler\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Operatorler\Operatorler\obj\Debug\Operatorler.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Operatorler\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Operatorler\Operatorler\obj\Debug\Operatorler.pdb
